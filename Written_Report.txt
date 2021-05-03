@@ -9,3 +9,5 @@ Explain the code in each image.
 
 More ideas
 What would you do next if you had to (or chose to) do a follow-up project?
+  We would make a search box that the user can input the location into instead of having them input it into the terminal. We would 
+  also make it so that the application would display the forcast over the next couple of days instead of just displaying 1 day. 
