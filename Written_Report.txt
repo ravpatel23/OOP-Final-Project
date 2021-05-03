@@ -1,0 +1,11 @@
+Summary	
+Start with a paragraph summarizing the purpose or goal of your project, the technologies used, and the results.
+
+Code images
+Include images (Links to an external site.) of the important parts of your code.
+
+Code descriptions
+Explain the code in each image.
+
+More ideas
+What would you do next if you had to (or chose to) do a follow-up project?
