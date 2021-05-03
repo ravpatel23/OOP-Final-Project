@@ -1,5 +1,8 @@
 Summary	
 Start with a paragraph summarizing the purpose or goal of your project, the technologies used, and the results.
+  The purpose of our project is to create an app that will display the weather for any location that is input. The user would first input the location 
+  in which they want to know the weather for, and then the application will grab that information from a weather website and display it. Our project does just that 
+  so we would say that it is successful at what it does. 
 
 Code images
 Include images (Links to an external site.) of the important parts of your code.
