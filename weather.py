@@ -81,6 +81,8 @@ elif weatherType2 =='Partly Cloudy':
     Label(master, image=partlycloudy,bg="white").grid(row=1,sticky="E") # insert the image of the weather icon on the east side
 elif weatherType2 =='Snow':
     Label(master, image=snow,bg="white").grid(row=1,sticky="E") # insert the image of the weather icon on the east side
+else:
+    Label(master, image=rain,bg="white").grid(row=1,sticky="E") # insert the image of the weather icon on the east side
 
 
 
