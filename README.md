@@ -6,4 +6,8 @@ Install and Run Instructions
 - After running the program you will input the location into the terminal
 - The weather for that location will be displayed in the weather application
 
-
+Group Members:
+- Ravi Patel
+- Robert Quick
+- Milena Manasher
+- Basil?
